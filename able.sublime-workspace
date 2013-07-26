@@ -1,0 +1,586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set_",
+				"set_viewport_fullscreen"
+			],
+			[
+				"Worl",
+				"WorldPositionComponent"
+			],
+			[
+				"compon",
+				"components_to_add"
+			],
+			[
+				"sli",
+				"slider_style"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"radio",
+				"radio_groups"
+			],
+			[
+				"gr",
+				"groupId"
+			],
+			[
+				"rad",
+				"radio_groups"
+			],
+			[
+				"c",
+				"checked"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"set",
+				"set_position"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"checked",
+				"checked_frame"
+			],
+			[
+				"mouse",
+				"mouse_down"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"butt",
+				"button_name"
+			],
+			[
+				"tex",
+				"text_field"
+			],
+			[
+				"text",
+				"text_field"
+			],
+			[
+				"cur",
+				"cursor_style"
+			],
+			[
+				"hex",
+				"hex_char"
+			],
+			[
+				"arr",
+				"arrow_style"
+			],
+			[
+				"ar",
+				"arrow_style"
+			],
+			[
+				"y",
+				"y_offset_below"
+			],
+			[
+				"contro",
+				"control_type"
+			],
+			[
+				"styl",
+				"styles"
+			],
+			[
+				"new",
+				"new_style"
+			],
+			[
+				"con",
+				"control_type"
+			],
+			[
+				"curr",
+				"current_style_name"
+			],
+			[
+				"style",
+				"style_name"
+			],
+			[
+				"sty",
+				"style_name"
+			],
+			[
+				"ad",
+				"add_child"
+			],
+			[
+				"old",
+				"oldColor"
+			],
+			[
+				"SCRE",
+				"SCREEN_WIDTH"
+			],
+			[
+				"sc",
+				"SCREEN_EDGE_PADDING"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"te",
+				"text_field"
+			],
+			[
+				"g_st",
+				"g_set_font"
+			],
+			[
+				"g_pri",
+				"g_printf"
+			],
+			[
+				"max",
+				"max_width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"min",
+				"min_x"
+			],
+			[
+				"scal",
+				"scale_x"
+			],
+			[
+				"act",
+				"actual_height"
+			],
+			[
+				"ac",
+				"actual_height"
+			],
+			[
+				"actu",
+				"actual_width"
+			],
+			[
+				"top",
+				"topLeft"
+			],
+			[
+				"fra",
+				"frame_timer"
+			],
+			[
+				"no",
+				"no_mouse"
+			],
+			[
+				"pad",
+				"paddle_r"
+			],
+			[
+				"pa",
+				"paddle_y"
+			],
+			[
+				"paddle",
+				"paddle_x"
+			],
+			[
+				"paddl",
+				"paddle_x"
+			],
+			[
+				"dots",
+				"dots_count"
+			],
+			[
+				"padd",
+				"paddle_y"
+			],
+			[
+				"her",
+				"hero_y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ProjectAble.ls",
+			"settings":
+			{
+				"buffer_size": 1195,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Randy.tmTheme",
+			"settings":
+			{
+				"buffer_size": 10676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/LoomScript/LoomScript.tmLanguage",
+			"settings":
+			{
+				"buffer_size": 19446,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/LoomScript.sublime-build",
+	"command_palette":
+	{
+		"height": 286.0,
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rknapp/Desktop/ProjectAble/src/ProjectAble.ls",
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Main.sublime-menu",
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/LoomScript.sublime-build",
+		"/C/Users/rknapp/Desktop/ProjectAble/able.sublime-workspace",
+		"/C/Users/rknapp/Desktop/ProjectAble/able.sublime-project",
+		"/C/Users/rknapp/Desktop/LoomScript.sublime-build",
+		"/C/Users/rknapp/Desktop/Default (OSX).sublime-keymap",
+		"/C/Users/rknapp/Desktop/Main.sublime-menu",
+		"/C/Users/rknapp/Desktop/Programmers Test - Game.txt",
+		"/C/Users/rknapp/Desktop/RandyKnappProgrammerTest.txt",
+		"/F/Vids/Taken.2.2012.Unrated.Extended.Cut.BDRip.XviD-EXViD/exvid-taken2.nfo",
+		"/C/Users/rknapp/Documents/Web/RandallKnapp/lifegame/requests/create_user.php",
+		"/C/Users/rknapp/Documents/Web/Harbour Wood/notes/wordpress_user_settings.txt",
+		"/C/Users/rknapp/AppData/Local/FlashDevelop/Templates/ProjectFiles/AS3Project/Class.as.fdt.wizard",
+		"/C/Users/rknapp/Documents/Web/Harbour Wood/_notes/jharbour_wpuser.txt",
+		"/C/Users/rknapp/Desktop/mateuszmackowiak-NativeAlert-6e652f4/README.md",
+		"/C/Users/rknapp/Desktop/mateuszmackowiak-NativeAlert-6e652f4/build/extension.xml",
+		"/C/Users/rknapp/Desktop/risen.json",
+		"/C/Users/rknapp/Pictures/Mal Reynolds Reference/price.txt",
+		"/C/Users/rknapp/Documents/Web/RandallKnapp/lifegame/test.php",
+		"/C/Users/rknapp/Documents/Web/RandallKnapp/lifegame/requests/helpers.php",
+		"/C/Users/rknapp/AppData/Local/FlashDevelop/Templates/ProjectFiles/AS3Project/Class.as.fdt",
+		"/C/Users/rknapp/Desktop/mateuszmackowiak-NativeAlert-6e652f4/build/release/NativeAlert.ane",
+		"/C/Users/rknapp/Desktop/mateuszmackowiak-NativeAlert-6e652f4/build/platform.xml",
+		"/C/Users/rknapp/Documents/Web/Harbour Wood/_notes/jharbour_wpuser",
+		"/C/Users/rknapp/AppData/Local/FlashDevelop/Templates/ProjectFiles/AS3Project/Interface.as.fdt",
+		"/C/Users/rknapp/Desktop/game.dat",
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Randy.tmTheme",
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Lua.sublime-settings",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/common/vec3.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/object/init.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/slider.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/threeslice.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/progressbar.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/radiobutton.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/init.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/checkbox.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/quad.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/displayobject.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/shape.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/ui/uicontrol.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/data/style/futurica.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/button.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/object/component/worldposition.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/ui/uibutton.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/ui/uitext.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/tooltip.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/test/test1.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/common/risen_math.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/animquad.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/texturesheet.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/ui/cursor.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/ui/style.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/nineslice.lua",
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/risen.sublime-project",
+		"/C/Users/rknapp/Desktop/Standalone/Template/PolycodeTemplate.xml",
+		"/C/Users/rknapp/Desktop/Standalone/Template/PolycodeTemplate.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/util/persistence.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/common/color.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/ui/init.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/common/eventdispatcher.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/risen.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/gfx/init.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/controls/fpsmeter.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/ui/uimanager.lua",
+		"/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/common/intersection.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/common/matrix.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/conf.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/class.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/lua/util/util.lua",
+		"/C/Users/rknapp/Documents/Code/Phoenix/risen/main.lua",
+		"/C/Users/rknapp/Desktop/game/help.lua",
+		"/C/Users/rknapp/Desktop/game/main.lua",
+		"/C/Users/rknapp/Desktop/printtable.lua",
+		"/C/Users/rknapp/Desktop/l.lua",
+		"/C/Users/rknapp/Desktop/main.lua",
+		"/C/Users/rknapp/Desktop/world.lua",
+		"/C/Users/rknapp/.gitconfig"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</u>",
+			"<u>",
+			"<span style=\"color: rgb(0,0,128)\">",
+			"</span>",
+			"<span>",
+			"<span style=\"color: #0000ff\">",
+			"<br />",
+			"nes Brahm",
+			"<br />",
+			"self",
+			"draw_debug",
+			":local_point_inside",
+			"print =",
+			"mouse_click_time",
+			"mouse_press_time",
+			"mouse_down",
+			"m_get_position",
+			"love.mouse.getPosition",
+			"y = 0",
+			"MAX_WIDTH",
+			"ARROW_PADDING_VERT",
+			"ARROW_PADDING",
+			"SCREEN_EDGE_PADDING",
+			"PADDING",
+			"print",
+			"print("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<br />      ",
+			" ",
+			"y = 32",
+			"text_style.max_width",
+			"arrow_style.padding_y",
+			"arrow_style.padding_x",
+			"style.screen_edge_padding",
+			"body_style.padding"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ProjectAble.ls",
+					"settings":
+					{
+						"buffer_size": 1195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LoomScript/LoomScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Randy.tmTheme",
+					"settings":
+					{
+						"buffer_size": 10676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4077,
+								4077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/LoomScript/LoomScript.tmLanguage",
+					"settings":
+					{
+						"buffer_size": 19446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14011,
+								14011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1155.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

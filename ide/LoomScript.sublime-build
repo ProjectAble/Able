@@ -1,0 +1,44 @@
+{
+	"cmd": ["loom.bat", "run", "--noconsole"],
+	"path": "C:\\Program Files (x86)\\Loom\\bin",
+	"working_dir": "$project_path",
+	"variants":
+	[
+		{
+			"cmd": ["loom.bat", "help"],
+			"name": "loom_help"
+		},
+		{
+			"cmd": ["loom.bat", "docs"],
+			"name": "loom_docs"
+		},
+		{
+			"cmd": ["loom.bat", "config"],
+			"name": "loom_config"
+		},
+		{
+			"cmd": ["loom.bat", "update"],
+			"name": "loom_update"
+		},
+		{
+			"cmd": ["loom.bat", "clean"],
+			"name": "loom_clean"
+		},
+		{
+			"cmd": ["loom.bat", "compile"],
+			"name": "loom_compile"
+		},
+		{
+			"cmd": ["loom.bat", "debug"],
+			"name": "loom_debug"
+		},
+		{
+			"cmd": ["loom.bat", "build", "ios"],
+			"name": "loom_build_ios"
+		},
+		{
+			"cmd": ["loom.bat", "build", "android"],
+			"name": "loom_build_android"
+		}
+	]	
+}

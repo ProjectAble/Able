@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "Loom",
+        "id": "loom",
+        "children":
+        [
+            { "command": "build", "args": {"variant": "loom_docs"}, "caption": "Documentation"},
+            { "caption": "-" },
+            { "command": "build", "args": {"variant": "loom_clean"}, "caption": "Clean"},
+            { "command": "build", "args": {"variant": "loom_compile"}, "caption": "Compile"},
+            { "command": "build", "caption": "Build & Run"},
+            { "command": "build", "args": {"variant": "loom_debug"}, "caption": "Debug"},
+            { "caption": "-" },
+            { "command": "build", "args": {"variant": "loom_build_ios"}, "caption": "Build iOS"},
+            { "command": "build", "args": {"variant": "loom_build_android"}, "caption": "Build Android"},
+            { "caption": "-" },
+            { "command": "build", "args": {"variant": "loom_help"}, "caption": "CLI Help"},
+            { "command": "build", "args": {"variant": "loom_config"}, "caption": "CLI Config"},
+            { "command": "build", "args": {"variant": "loom_update"}, "caption": "CLI Update"}
+        ]
+    }
+]
